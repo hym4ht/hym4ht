@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm hym4ht!
+# 👋 Hi there, I'm Azril Restu M!
 
 ![Art Tech GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
@@ -20,7 +20,7 @@ Selamat datang di GitHub saya! Saya memadukan dunia kode dan kreativitas, mewuju
 ## 📌 Favorite Stack
 
 - **Backend:** PHP, Laravel
-- **Frontend:** JavaScript
+- **Frontend:** JavaScript, HTML, CSS
 
 ---
 
