@@ -22,15 +22,16 @@
 ### 🔹 Backend
 - PHP
 - Laravel
+-Java Script
 
 ### 🔹 Frontend
-- JavaScript (Vanilla)
+- JavaScript (React, Bootstrap)
 - HTML5 & CSS3
 
 ### 🔹 Others
 - Adobe Illustrator & Photoshop (for visual art)
 - Git & GitHub
-- REST API Development
+
 
 ---
 
