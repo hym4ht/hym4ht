@@ -1,40 +1,63 @@
-# 👋 Hi there, I'm Azril Restu M!
+# 🎨 Azril Restu Mahinata
 
 ![Art Tech GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
-### 👨‍💻 Programmer & 🎨 Graphic Designer | Illustrator
-
-Selamat datang di GitHub saya! Saya memadukan dunia kode dan kreativitas, mewujudkan ide melalui programming dan seni visual.
-
----
-
-## 🚀 Tentang Saya
-
-- 💻 **Profesi:** Programmer & Graphic Designer, Illustrator
-- 🧰 **Tech Stack:** PHP | Laravel | JavaScript
-- 🎨 **Art & Code:** Passionate mengintegrasikan kreativitas visual & solusi perangkat lunak
-- 💡 **Motto:** _Practice Art Makes Your Soul Grow_
+### 👋 Hello! I'm Azril — a Programmer & Visual Artist  
+**Blending the logic of code with the soul of art.**
 
 ---
 
-## 📌 Favorite Stack
+## 🚀 About Me
 
-- **Backend:** PHP, Laravel
-- **Frontend:** JavaScript, HTML, CSS
+- 💼 **Profession:** Full-stack Developer | Graphic Designer | Illustrator
+- 🧠 **Passion:** Bridging technology and creativity through code and design
+- 🛠️ **Stack:** PHP | Laravel | JavaScript | HTML | CSS
+- ✍️ **Philosophy:** _“Practice Art Makes Your Soul Grow”_
+- 🌍 **Location:** Indonesia
+
+---
+
+## 🧰 Tech Stack
+
+### 🔹 Backend
+- PHP
+- Laravel
+
+### 🔹 Frontend
+- JavaScript (Vanilla)
+- HTML5 & CSS3
+
+### 🔹 Others
+- Adobe Illustrator & Photoshop (for visual art)
+- Git & GitHub
+- REST API Development
+
+---
+
+## 🎯 What I Do
+
+- 🚧 Build dynamic and maintainable web applications
+- 🎨 Craft compelling illustrations & graphics
+- 🔁 Collaborate on creative coding projects
+- 🧪 Experiment with fusing visual art into code-based interfaces
 
 ---
 
 ## 📈 GitHub Stats
 
-![hym4ht's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hym4ht&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hym4ht&layout=compact&theme=radical)
+![Azril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hym4ht&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hym4ht&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Let's Connect
 
-- [Instagram](https://instagram.com/hym4ht)
+- 🌐 [Instagram: @hym4ht](https://instagram.com/hym4ht)
+- ✉️ Email: _[optional if you want to add]_
+- 💼 [Portfolio/Website (if any)](https://yourwebsite.com)
 
 ---
 
-> “Practice Art Makes Your Soul Grow”
+> _“Practice Art Makes Your Soul Grow”_  
+> — A personal reminder to always create and inspire ✨
+
