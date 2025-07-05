@@ -27,7 +27,9 @@
 -Java Script
 
 ### 🔹 Frontend
-- JavaScript (React, Bootstrap)
+- JavaScript(React)
+-Bootstrap
+-Tailwind Native
 - HTML5 & CSS3
 
 ### 🔹 Others
