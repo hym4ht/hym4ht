@@ -27,10 +27,10 @@
 -Java Script
 
 ### 🔹 Frontend
-- JavaScript(React)
+- JavaScript Native
 -Bootstrap
 -Tailwind Native
-- HTML5 & CSS3
+- HTML5 & CSS Native
 
 ### 🔹 Others
 - Adobe Illustrator & Photoshop (for visual art)
@@ -39,14 +39,6 @@
 
 ---
 
-## 🎯 What I Do
-
-- 🚧 Build dynamic and maintainable web applications
-- 🎨 Craft compelling illustrations & graphics
-- 🔁 Collaborate on creative coding projects
-- 🧪 Experiment with fusing visual art into code-based interfaces
-
----
 
 ## 📈 GitHub Stats
 
@@ -58,11 +50,10 @@
 ## 📬 Let's Connect
 
 - 🌐 [Instagram: @hym4ht](https://instagram.com/hym4ht)
-- ✉️ Email: _[optional if you want to add]_
+- ✉️ Email: _restu.moez@gmail.com]_
 - 💼 [Portfolio/Website (if any)](https://yourwebsite.com)
 
 ---
 
 > _“Practice Art Makes Your Soul Grow”_  
-> — A personal reminder to always create and inspire ✨
 
