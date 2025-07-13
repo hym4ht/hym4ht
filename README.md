@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-- 💼 **Profession:** Full-stack Developer | Graphic Designer | Illustrator
+- 💼 **Profession:** BackEnd Developer | Graphic Designer | Illustrator
 - 🧠 **Passion:** Bridging technology and creativity through code and design
-- 🛠️ **Stack:** PHP | Laravel | JavaScript | HTML | CSS
+- 🛠️ **Stack:** PHP | Laravel | JavaScript 
 - ✍️ **Philosophy:** _“Practice Art Makes Your Soul Grow”_
 - 🌍 **Location:** Indonesia
 
