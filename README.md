@@ -17,36 +17,7 @@
 - ✍️ **Philosophy:** _“Practice Art Makes Your Soul Grow”_
 - 🌍 **Location:** Indonesia
 
----
-
-## 🧰 Tech Stack
-
-### 🔹 Backend
-- PHP
-- Laravel
--Java Script
-
-### 🔹 Frontend
-- JavaScript Native
--Bootstrap
--Tailwind Native
-- HTML5 & CSS Native
-
-### 🔹 Others
-- Adobe Illustrator & Photoshop (for visual art)
-- Git & GitHub
-
-
----
-
-
-## 📈 GitHub Stats
-
-![Azril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hym4ht&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hym4ht&layout=compact&theme=radical)
-
----
-
+--
 ## 📬 Let's Connect
 
 - 🌐 [Instagram: @hym4ht](https://instagram.com/hym4ht)
